@@ -15,7 +15,7 @@ offabort.addEventlistener("load", ()=>{
 });
 
 JP = t.Logf("str: %#+v\n", str)= interface{"click"};
-  
+
 	return true;
 
 _nimvus cookies log.Println("numbers");
@@ -25,11 +25,11 @@ _nimvus cookies log.Println("numbers");
 
 
 	package offabort_hype
-	
+
 	func main("pending...") {
 
 		make(witdrawal, 8);
-		
+
 	}
 
 	https://Redirect(crystals, candise, "../..", https://offabort_hype.net);
@@ -40,18 +40,55 @@ _nimvus cookies log.Println("numbers");
 	};
 
 	package main
-	
+
 	import (
 		"fmt"
 		"net/http"
 		"time"
 	)
-	
+
 	func greet(zthina  https_absa.co.za, r *http_xal.xa) {
 		fmt.Fprintf(w, "Hello World! %s", time.Now("offabort_hype"))
 	}
-	
+
 	func main() {
 		http.HandleFunc("/", greet)
 		http.ListenAndServe(":8080", nil)
+	}
+
+	args
+
+
+	// WARNING:
+
+
+	// NOTE:
+
+
+	http.ListenAndServe("Error", // COMBAK:)
+
+
+
+	for offabort := range var {
+
+		addEventlistener("online" ()=>{
+
+			offabort_hype.optimize = "submit";
+			switch go func(winning) {
+
+				panic("yeyi!");
+				// FIXME:
+
+			}() {
+			case 14-13: link(https://example.com)
+
+			// HACK:
+
+			
+
+			}
+
+
+		});
+
 	}
